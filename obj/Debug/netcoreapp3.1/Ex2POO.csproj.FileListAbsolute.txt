@@ -1,0 +1,13 @@
+C:\Users\Luana e Regis\Desktop\Regis\senai\Backend\Console\Ex2POO\bin\Debug\netcoreapp3.1\Ex2POO.exe
+C:\Users\Luana e Regis\Desktop\Regis\senai\Backend\Console\Ex2POO\bin\Debug\netcoreapp3.1\Ex2POO.deps.json
+C:\Users\Luana e Regis\Desktop\Regis\senai\Backend\Console\Ex2POO\bin\Debug\netcoreapp3.1\Ex2POO.runtimeconfig.json
+C:\Users\Luana e Regis\Desktop\Regis\senai\Backend\Console\Ex2POO\bin\Debug\netcoreapp3.1\Ex2POO.runtimeconfig.dev.json
+C:\Users\Luana e Regis\Desktop\Regis\senai\Backend\Console\Ex2POO\bin\Debug\netcoreapp3.1\Ex2POO.dll
+C:\Users\Luana e Regis\Desktop\Regis\senai\Backend\Console\Ex2POO\bin\Debug\netcoreapp3.1\Ex2POO.pdb
+C:\Users\Luana e Regis\Desktop\Regis\senai\Backend\Console\Ex2POO\obj\Debug\netcoreapp3.1\Ex2POO.csprojAssemblyReference.cache
+C:\Users\Luana e Regis\Desktop\Regis\senai\Backend\Console\Ex2POO\obj\Debug\netcoreapp3.1\Ex2POO.AssemblyInfoInputs.cache
+C:\Users\Luana e Regis\Desktop\Regis\senai\Backend\Console\Ex2POO\obj\Debug\netcoreapp3.1\Ex2POO.AssemblyInfo.cs
+C:\Users\Luana e Regis\Desktop\Regis\senai\Backend\Console\Ex2POO\obj\Debug\netcoreapp3.1\Ex2POO.csproj.CoreCompileInputs.cache
+C:\Users\Luana e Regis\Desktop\Regis\senai\Backend\Console\Ex2POO\obj\Debug\netcoreapp3.1\Ex2POO.dll
+C:\Users\Luana e Regis\Desktop\Regis\senai\Backend\Console\Ex2POO\obj\Debug\netcoreapp3.1\Ex2POO.pdb
+C:\Users\Luana e Regis\Desktop\Regis\senai\Backend\Console\Ex2POO\obj\Debug\netcoreapp3.1\Ex2POO.genruntimeconfig.cache
