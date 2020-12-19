@@ -1,0 +1,13 @@
+C:\Users\lurib\OneDrive\Área de Trabalho\Senai\Sistema Alunos\bin\Debug\netcoreapp3.1\Sistema Alunos.exe
+C:\Users\lurib\OneDrive\Área de Trabalho\Senai\Sistema Alunos\bin\Debug\netcoreapp3.1\Sistema Alunos.deps.json
+C:\Users\lurib\OneDrive\Área de Trabalho\Senai\Sistema Alunos\bin\Debug\netcoreapp3.1\Sistema Alunos.runtimeconfig.json
+C:\Users\lurib\OneDrive\Área de Trabalho\Senai\Sistema Alunos\bin\Debug\netcoreapp3.1\Sistema Alunos.runtimeconfig.dev.json
+C:\Users\lurib\OneDrive\Área de Trabalho\Senai\Sistema Alunos\bin\Debug\netcoreapp3.1\Sistema Alunos.dll
+C:\Users\lurib\OneDrive\Área de Trabalho\Senai\Sistema Alunos\bin\Debug\netcoreapp3.1\Sistema Alunos.pdb
+C:\Users\lurib\OneDrive\Área de Trabalho\Senai\Sistema Alunos\obj\Debug\netcoreapp3.1\Sistema Alunos.csprojAssemblyReference.cache
+C:\Users\lurib\OneDrive\Área de Trabalho\Senai\Sistema Alunos\obj\Debug\netcoreapp3.1\Sistema Alunos.AssemblyInfoInputs.cache
+C:\Users\lurib\OneDrive\Área de Trabalho\Senai\Sistema Alunos\obj\Debug\netcoreapp3.1\Sistema Alunos.AssemblyInfo.cs
+C:\Users\lurib\OneDrive\Área de Trabalho\Senai\Sistema Alunos\obj\Debug\netcoreapp3.1\Sistema Alunos.csproj.CoreCompileInputs.cache
+C:\Users\lurib\OneDrive\Área de Trabalho\Senai\Sistema Alunos\obj\Debug\netcoreapp3.1\Sistema Alunos.dll
+C:\Users\lurib\OneDrive\Área de Trabalho\Senai\Sistema Alunos\obj\Debug\netcoreapp3.1\Sistema Alunos.pdb
+C:\Users\lurib\OneDrive\Área de Trabalho\Senai\Sistema Alunos\obj\Debug\netcoreapp3.1\Sistema Alunos.genruntimeconfig.cache
